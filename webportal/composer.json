@@ -1,0 +1,6 @@
+{
+	"require": {
+		"spinegar/sugar7wrapper": "dev-master"
+	},
+	"minimum-stability": "dev"
+}
